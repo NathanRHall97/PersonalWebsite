@@ -1,0 +1,118 @@
+{
+    "title": "Software Engineer",
+    "summary": "Devoted, methodical computer science student skilled in leadership, equipped with a strong foundation in math, logic, and coding. Seeking a position to take my adaptive and analytical thinking to a professional workplace. By engaging in new experiences, I aim to leave a lasting impact at wherever I land.",
+    "studies": [
+      {
+        "institute": "University of Pittsburgh",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/University_of_Pittsburgh_seal.svg/1200px-University_of_Pittsburgh_seal.svg.png",
+        "url": "https://cs.pitt.edu/",
+        "title": "B.S. Computer Science",
+        "durationInYears": "5",
+        "graduationYear": 2020
+      },
+      {
+        "institute": "West Allegheny School District",
+        "logo": "http://www.westasd.org/WindowImages/20171249414950_image.jpg",
+        "url": "http://www.westasd.org/",
+        "title": "High School Diploma",
+        "durationInYears": "4",
+        "graduationYear": 2015
+      }
+    ],
+    "experiences": [
+      {
+        "companyName": "Gateway Clipper",
+        "logo": "https://pbs.twimg.com/profile_images/2221362288/Image_400x400.jpg",
+        "url": "https://www.gatewayclipper.com/?utm_source=Marbury&utm_medium=PPC&utm_campaign=Marbury&gclid=CjwKCAiA__HvBRACEiwAbViuUwjtNBPUkKf7PjF-e995NxGHky0XQjfhc8da1mCNNj5mVn2F5dLPzRoCbcUQAvD_BwE",
+        "roles": [
+          {
+            "title": "Wait Staff",
+            "description": "",
+            "startDate": "2016-05-05",
+            "endDate": "2019-01-01",
+            "location": "Pittsburgh, PA"
+          }
+        ]
+      },
+      {
+        "companyName": "West Allegheny School District",
+        "logo": "http://www.westasd.org/WindowImages/20171249414950_image.jpg",
+        "url": "https://www.westasports.com/",
+        "roles": [
+          {
+            "title": "Varsity Assistant & Junior Varsity Assistant Coach",
+            "description": "",
+            "startDate": "2018-11-01",
+            "endDate": "2019-04-01",
+            "location": "Imperial, PA"
+          },
+          {
+            "title": "Junior Varsity Assitant Coach",
+            "description": "",
+            "startDate": "2017-11-01",
+            "endDate": "2018-04-01",
+            "location": "Imperial, PA"
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "projectName": "Cheap Eats Andriod Application",
+        "logo": "https://raw.githubusercontent.com/NathanRHall97/Cheap-Eats-Application/master/Documentation/RegistrationView.png",
+        "url": "https://github.com/NathanRHall97/Cheap-Eats-Application",
+        "ProjectType":"Team Project",
+        "developmentType":"Agile Development",
+        "details":"Cheap Eats gives an easy-to-read, easy-to-follow way for students to find the cheap/free food they never knew about.",
+        "GithubRepo":"Cheap Eats GitHub Repository",
+        "gitlink":"https://github.com/NathanRHall97/Cheap-Eats-Application"
+      },
+      {
+        "projectName": "Pitt Social Database Application",
+        "logo": "https://njmarlins.com/wp-content/uploads/sites/692/2015/04/pitt-logo-for-web.png",
+        "url": "https://github.com/NathanRHall97/PittSocial",
+        "ProjectType":"Team Project",
+        "developmentType":"Waterfall Development",
+        "details":"Social networking application developed for a database management class",
+        "GithubRepo":"Pitt Social GitHub Repository",
+        "gitlink":"https://github.com/NathanRHall97/PittSocial"
+      },
+      {
+        "projectName": "Networking Projects",
+        "logo": "https://cdn0.iconfinder.com/data/icons/marketing-essential/48/v-12-512.png",
+        "url": "https://github.com/NathanRHall97/NetworkingProjects",
+        "ProjectType":"Partner Projects",
+        "developmentType":"Waterfall Development",
+        "details":"Multiple projects related to networking for CS1652",
+        "GithubRepo":"Networking GitHub Repository",
+        "gitlink":"https://github.com/NathanRHall97/NetworkingProjects"
+      },
+      {
+        "projectName": "Personal Webpage",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+        "url": "https://github.com/NathanRHall97",
+        "ProjectType":"Personal Project",
+        "developmentType":"Iterative Development",
+        "details":"Personal webpage made to practice and learn javascript",
+        "GithubRepo":"",
+        "gitlink":""
+      }
+    ],
+  "languages": [
+      {
+        "language":"Java"
+      },
+      {
+        "langauge":"JavaScript"
+      },
+      {
+        "langauge":"C / C++"
+      },
+      {
+        "langauge":"SQL"
+      },
+      {
+        "langauge":""
+      }
+    ]
+  }

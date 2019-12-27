@@ -72,12 +72,6 @@ class Profile extends React.Component {
               <font color="DarkBlue">Resume</font>
             </NavLink>
           </NavItem>
-          <NavItem>
-            <NavLink className={classnames({ active: this.state.activeTab === '6' })}
-                     onClick={() => { this.toggle('6'); }}>
-              <font color="DarkBlue">Contact Me</font>
-            </NavLink>
-          </NavItem>
         </Nav>
         <TabContent activeTab={this.state.activeTab}>
           <TabPane tabId="1">
@@ -94,9 +88,6 @@ class Profile extends React.Component {
           </TabPane>
           <TabPane tabId="5">
             <Resume/>
-          </TabPane>
-          <TabPane tabId="6">
-            <Contact/>
           </TabPane>
         </TabContent>
       </Container>

@@ -16,31 +16,39 @@ import './Languages.css';
 class Languages extends React.Component{
     render()
     {
-        return <Container>
-            <Row>
-                <Col>
-                    <img src= {JavaImage} className = "Lang-picture" alt ="Java"/>    
+        return <Container id = "l_Menu">
+                <Row><Col>
+                    <Row>
+                        <h4>Languages</h4>
+                    </Row>
+                    <Row>
+                        <ul>
+                            <li>TypeScript</li>
+                            <li>Java</li>
+                            <li>JavaScript</li>
+                            <li>Python</li>
+                            <li>SQL</li>
+                            <li>CSS</li>
+                            <li>HTML</li>
+                        </ul>
+                    </Row> 
                 </Col>
                 <Col>
-                <img src= {JSImage} className = "Lang-picture" alt ="JavaScript"/>  
-                </Col>
-            </Row>
-            <Row>
-                <Col>
-                    <img src= {CImage} className = "Lang-picture" alt ="C"/>    
-                </Col>
-                <Col>
-                    <img src= {CppImage} className = "Lang-picture" alt ="C++"/>  
-                </Col>
-            </Row>
-            <Row>
-                <Col>
-                    <img src= {SQLImage} className = "Lang-picture" alt ="SQL"/>    
-                </Col>
-                <Col>
-                    <img src= {ASMImage} className = "Lang-picture" alt ="ASM"/>  
-                </Col>
-            </Row>
+                    <Row>
+                        <h4>Frameworks & Tools</h4>
+                    </Row>
+                    <Row>
+                        <ul>
+                            <li>Angular</li>
+                            <li>Android</li>
+                            <li>Docker</li>
+                            <li>Excel</li>
+                            <li>Git</li>
+                            <li>React</li>
+                            <li>Word</li>
+                        </ul>
+                    </Row> 
+                </Col></Row>
         </Container>
     }
 

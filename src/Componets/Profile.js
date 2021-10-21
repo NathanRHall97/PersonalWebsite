@@ -45,31 +45,31 @@ class Profile extends React.Component {
           <NavItem>
             <NavLink className={classnames({ active: this.state.activeTab === '1' })}
                      onClick={() => { this.toggle('1'); }}>
-              <font color="DarkBlue">Education</font>
+              <font color="Black">Education</font>
             </NavLink>
           </NavItem>
           <NavItem>
             <NavLink className={classnames({ active: this.state.activeTab === '2' })}
                      onClick={() => { this.toggle('2'); }}>
-              <font color="DarkBlue">Projects</font>
+              <font color="Black">Projects</font>
             </NavLink>
           </NavItem>
           <NavItem>
             <NavLink className={classnames({ active: this.state.activeTab === '3' })}
                      onClick={() => { this.toggle('3'); }}>
-              <font color="DarkBlue">Experience</font>
+              <font color="Black">Experience</font>
             </NavLink>
           </NavItem>
           <NavItem>
             <NavLink className={classnames({ active: this.state.activeTab === '4' })}
                      onClick={() => { this.toggle('4'); }}>
-              <font color="DarkBlue">Languages</font>
+              <font color="Black">Skills</font>
             </NavLink>
           </NavItem>
           <NavItem>
             <NavLink className={classnames({ active: this.state.activeTab === '5' })}
                      onClick={() => { this.toggle('5'); }}>
-              <font color="DarkBlue">Resume</font>
+              <font color="Black">Resume</font>
             </NavLink>
           </NavItem>
         </Nav>

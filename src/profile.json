@@ -1,6 +1,6 @@
 {
-    "title": "Software Engineer",
-    "summary": "Devoted, methodical computer science student skilled in leadership, equipped with a strong foundation in math, logic, and coding. Seeking a position to take my adaptive and analytical thinking to a professional workplace. By engaging in new experiences, I aim to leave a lasting impact at wherever I land.",
+    "title": "Software Developer",
+    "summary": "Devoted, methodical software developer skilled in leadership, equipped with a strong foundation in math, logic, and coding. By engaging in new experiences, I aim to leave a lasting impact at wherever I land.",
     "studies": [
       {
         "institute": "University of Pittsburgh",
@@ -20,6 +20,20 @@
       }
     ],
     "experiences": [
+      {
+        "companyName": "CGI",
+        "logo": "data:image/jpeg;base64,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",
+        "url": "https://www.cgi.com/en",
+        "roles": [
+          {
+            "title": "Software Developer / Technical Consultant",
+            "description": "",
+            "startDate": "2020-09-01",
+            "currentJob": true,
+            "location": "Pittsburgh, PA"
+          }
+        ]
+      },
       {
         "companyName": "Gateway Clipper",
         "logo": "https://pbs.twimg.com/profile_images/2221362288/Image_400x400.jpg",
@@ -57,6 +71,16 @@
       }
     ],
     "projects": [
+      {
+        "projectName": "Senior Project - Docker Microservices",
+        "logo": "https://www.docker.com/sites/default/files/social/docker_facebook_share.png",
+        "url": "https://github.com/NathanRHall97/CS1980-Capstone-Spring-2020",
+        "ProjectType":"Senior Project",
+        "developmentType":"Agile Development",
+        "details":"Tasked with extending a microservice architecture by implementing a test container, a proper database, and a CI workflow.",
+        "GithubRepo":"Senior Project GitHub Repository",
+        "gitlink":"https://github.com/NathanRHall97/CS1980-Capstone-Spring-2020"
+      },
       {
         "projectName": "Cheap Eats Andriod Application",
         "logo": "https://raw.githubusercontent.com/NathanRHall97/Cheap-Eats-Application/master/Documentation/RegistrationView.png",
